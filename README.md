@@ -5,6 +5,8 @@
 
 Dive into a fun and interactive Pokemon adventure built in C/C++! ⚔️🐉 Battle, catch, and train your Pokemon as you explore exciting new regions and aim to become the ultimate Pokemon Master. 🏆🌟
 
+
+
 ### ✨ Features
 
 🥊 Battle & Catch: Engage in battles with wild Pokemon and rival trainers.
@@ -14,12 +16,15 @@ Dive into a fun and interactive Pokemon adventure built in C/C++! ⚔️🐉 Bat
 🐾 Train & Evolve: Level up your Pokemon and watch them evolve into stronger forms.
 
 
+
+
 ### 🚀 Getting Started
 
 #### 📋 Prerequisites
 
 - 🖥️ C Compiler (e.g., gcc)
 - 🛠️ Make (build tool)
+
 
   
 ### 📥 Installation
@@ -29,6 +34,8 @@ git clone git@github.com:lalicodes/PokemonGame.git
 
 Navigate to the project directory:
 cd PokemonGame
+
+
 
 
 #### 🛠️ Build and Run
@@ -42,6 +49,9 @@ make run
 #### Clean the build files: 🧹
 
 make clean
+
+
+
 
 ### 📜 License
 This project is licensed under the MIT License. 📄✨
