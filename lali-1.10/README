@@ -1,0 +1,8 @@
+For assignment 2, I chose to create the classic computer game, Minesweeper! All the game controls are integrated into the game interface and are operated via keyboard inputs. The game offers two modes:
+
+First, you must compile the program by running 'make'.
+To play the game in its standard mode, execute './minesweeper'.
+For cheat mode, run './minesweeper cheat'. This mode displays all mines, aiding in verifying that the game functions correctly but remember not to click on the mines to keep the challenge intact.
+You can start a new game by pressing 'n' after each round or exit the game as you wish.
+
+Enjoy playing!
