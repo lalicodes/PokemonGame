@@ -27,18 +27,11 @@ git clone git@github.com:lalicodes/PokemonGame.git
 cd PokemonGame
 
 ## Build and Run
-Build the game:
+
 make
-
-## Run the game:
-
 make run
-Clean the build files:
 make clean
 
-
-🤝 Contributing
-Contributions are welcome! Fork the repository, make your changes, and submit a pull request.
 
 📜 License
 This project is licensed under the MIT License.
