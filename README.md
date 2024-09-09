@@ -36,14 +36,11 @@ git clone git@github.com:lalicodes/PokemonGame.git
 cd PokemonGame
 
 #### 🛠️ Build and Run
-Build the game: 🛠️
-make
+Build the game: 🛠️ make
 
-#### Run the game: 🎮
-make run
+#### Run the game: 🎮 make run
 
-#### Clean the build files: 🧹
-make clean
+#### Clean the build files: 🧹 make clean
 
 
 
