@@ -14,7 +14,7 @@ Dive into a fun and interactive Pokemon adventure built in C/C++! ⚔️🐉 Bat
 
 ### 🚀 Getting Started
 
-📋 Prerequisites
+#### 📋 Prerequisites
 
 - 🖥️ C Compiler (e.g., gcc)
 - 🛠️ Make (build tool)
