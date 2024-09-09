@@ -8,7 +8,9 @@ Dive into a fun and interactive Pokemon adventure built in C/C++! ⚔️🐉 Bat
 ### ✨ Features
 
 🥊 Battle & Catch: Engage in battles with wild Pokemon and rival trainers.
+
 🌍 Explore: Discover diverse regions filled with secrets and challenges.
+
 🐾 Train & Evolve: Level up your Pokemon and watch them evolve into stronger forms.
 
 
