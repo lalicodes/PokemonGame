@@ -20,35 +20,32 @@ Dive into a fun and interactive Pokemon adventure built in C/C++! ⚔️🐉 Bat
 
 ### 🚀 Getting Started
 
+
+
 #### 📋 Prerequisites
 
 - 🖥️ C Compiler (e.g., gcc)
 - 🛠️ Make (build tool)
 
-
-  
 ### 📥 Installation
 
-Clone the repo:
+#### Clone the repo:
 git clone git@github.com:lalicodes/PokemonGame.git
 
-Navigate to the project directory:
+#### Navigate to the project directory:
 cd PokemonGame
-
-
-
 
 #### 🛠️ Build and Run
 Build the game: 🛠️
 make
 
 #### Run the game: 🎮
-
 make run
 
 #### Clean the build files: 🧹
-
 make clean
+
+
 
 
 
