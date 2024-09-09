@@ -13,20 +13,28 @@ Train & Evolve: Level up your Pokemon and watch them evolve into stronger forms.
 
 🚀 Getting Started
 
-## Prerequisites
+Prerequisites
+
 C Compiler (e.g., gcc)
 Make (build tool)
 
-## Installation
+Installation
+
 Clone the repo and build the game using the provided Makefile.
 
-## Clone the repo
+
+Clone the repo
+
 git clone git@github.com:lalicodes/PokemonGame.git
 
-## Navigate to the project directory
+
+Navigate to the project directory.
+
 cd PokemonGame
 
-## Build and Run
+
+
+Build and Run
 
 make
 make run
